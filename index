@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn English Now - Your Path to Fluency</title>
+    
+    </head>
+<body>
+
+    <header>
+        <h1><a href="index.html">Learn English Now</a></h1>
+        <nav>
+            <ul>
+                <li><a href="#lessons">Lessons</a></li>
+                <li><a href="#practice">Practice</a></li>
+                <li><a href="#resources">Resources</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        
+        <section id="hero">
+            <h2>Start Your English Journey Today!</h2>
+            <p>Master grammar, build vocabulary, and speak fluently with our personalized courses.</p>
+            <a href="#lessons" class="button primary">Explore Lessons</a>
+            <a href="quiz.html" class="button secondary">Take a Level Test</a>
+        </section>
+
+        <section id="lessons">
+            <h3>Our Courses</h3>
+            <div class="course-list">
+                <div class="course-card">
+                    <h4>Beginner (A1-A2)</h4>
+                    <p>Start with the absolute basics: greetings, simple tenses, and essential vocabulary.</p>
+                    <a href="beginner.html">Start Here</a>
+                </div>
+                <div class="course-card">
+                    <h4>Intermediate (B1-B2)</h4>
+                    <p>Develop fluency with complex grammar structures and conversational topics.</p>
+                    <a href="intermediate.html">Continue</a>
+                </div>
+                <div class="course-card">
+                    <h4>Advanced (C1-C2)</h4>
+                    <p>Master idioms, formal language, and academic writing.</p>
+                    <a href="advanced.html">Master English</a>
+                </div>
+            </div>
+        </section>
+
+        <section id="practice">
+            <h3>Practice Tools</h3>
+            <ul>
+                <li>Grammar Quizzes</li>
+                <li>Vocabulary Flashcards</li>
+                <li>Listening Exercises</li>
+            </ul>
+            <a href="practice.html" class="button">Go to Practice Zone</a>
+        </section>
+        
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Learn English Now. All rights reserved.</p>
+        <div class="footer-links">
+            <a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a>
+        </div>
+    </footer>
+
+</body>
+</html>
